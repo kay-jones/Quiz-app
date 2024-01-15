@@ -38,7 +38,7 @@ let questions =[
 },
 {
     num: 4,
-    question: "Whats does Css stand for?",
+    question: "Whats does php stand for?",
     answer: "cascading stylesheet",
     options: [
         "style shit",
